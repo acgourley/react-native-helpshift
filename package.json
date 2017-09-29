@@ -1,0 +1,27 @@
+{
+  "name": "react-native-helpshift",
+  "version": "0.4.0",
+  "description": "Native Bindings for the Helpshift Library",
+  "main": "VOOLocalytics",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "helpshift",
+    "ios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acgourley/react-native-helpshift.git"
+  },
+  "author": "Alex Gourley.",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/acgourley/react-native-helpshift#readme",
+  "dependencies": {
+    "fbjs": ">=0.8.3"
+  },
+  "devDependencies": {
+    "react-docgen": "^2.9.1"
+  }
+}
